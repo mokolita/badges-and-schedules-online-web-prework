@@ -12,6 +12,6 @@ end
 
 def assign_room(array)
   counter = 1 
-  
+  array.each do 
 end
   
