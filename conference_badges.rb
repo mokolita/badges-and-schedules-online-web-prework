@@ -17,5 +17,6 @@ def assign_room(array)
     "Hello #{name}! You'll be assigned to room {counter}"
     counter += 10 
   end
+  array2
 end
   
